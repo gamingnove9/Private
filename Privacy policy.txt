@@ -1,0 +1,75 @@
+Privacy Policy for Randomas
+
+Last updated: October 25, 2025
+
+1. Introduction
+
+Welcome to Randomas (“we”, “our”, or “us”).
+This Privacy Policy explains how we collect, use, and protect your information when you use our Facebook-connected app that allows posting content to your Facebook Page on your behalf.
+
+We value your privacy and operate in compliance with Meta’s Platform Policies and applicable data protection laws.
+
+2. Information We Collect
+
+When you use Randomas, we may collect the following information through Facebook’s secure login system (OAuth):
+
+Your public profile information (name, profile picture, and Facebook ID).
+
+Page access permissions (pages you manage and permission to post on them).
+
+Content you choose to post via our app (text, images, videos, or links).
+
+We do not collect your Facebook password or any sensitive personal information.
+
+3. How We Use Your Information
+
+We use your data strictly for the following purposes:
+
+To authenticate your Facebook account securely.
+
+To allow you to post and manage content on your connected Facebook Page(s).
+
+To maintain and improve the app’s performance and reliability.
+
+We never sell, rent, or share your data with third parties for marketing or commercial purposes.
+
+4. Data Storage and Security
+
+All access tokens and permissions are handled securely.
+
+Your tokens are stored only to enable authorized Facebook actions and are encrypted.
+
+You can revoke our access anytime from your Facebook Settings → Business Integrations.
+
+5. Data Retention
+
+We retain your access data only as long as it is needed for the app to function.
+If you disconnect Randomas from Facebook or stop using the app, all related data will be automatically removed.
+
+6. Your Rights
+
+You have full control over your Facebook data. You may:
+
+Revoke access permissions at any time through Facebook.
+
+Request deletion of any app-related data.
+
+Contact us for questions or privacy requests at the email below.
+
+7. Third-Party Services
+
+Randomas uses Meta Platforms, Inc. (Facebook) APIs.
+Your use of Facebook is governed by Facebook’s own Privacy Policy:
+👉 https://www.facebook.com/privacy/policy
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy or how your information is handled, please contact:
+
+Developer Name: Rabbany
+Email: rabbanydc130@gmail.com
+
+9. Policy Updates
+
+We may update this Privacy Policy from time to time.
+The latest version will always be available via the same public link used in the Facebook App configuration.
